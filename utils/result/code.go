@@ -1,4 +1,4 @@
-package code
+package result
 
 const (
 	SUCCESS        = 1000
