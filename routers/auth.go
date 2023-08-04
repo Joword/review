@@ -3,7 +3,7 @@ package routers
 import (
 	"fmt"
 	"net/http"
-	"niftyreview/utils/app"
+	app "niftyreview/utils/app"
 	"niftyreview/utils/result"
 
 	"github.com/gin-gonic/gin"
